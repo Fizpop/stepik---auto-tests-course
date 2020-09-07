@@ -1,4 +1,4 @@
 # stepik---auto-tests-course
 home work
 
-test lessons stepic
+test lessons stepik
